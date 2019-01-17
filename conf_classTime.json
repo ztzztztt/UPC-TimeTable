@@ -1,0 +1,43 @@
+﻿{
+  "classTime": [
+    {
+        "name":"第一节课",
+        "startTime":"0800",
+        "endTime":"0950"
+    },
+    {
+        "name":"第二节课",
+        "startTime":"1010",
+        "endTime":"1200"
+    },
+    {
+        "name":"第三节课",
+        "startTime":"1400",
+        "endTime":"1550"
+    },
+    {
+        "name":"第四节课",
+        "startTime":"1610",
+        "endTime":"1800"
+    },
+    {
+        "name":"第五节课",
+        "startTime":"1900",
+        "endTime":"2050"
+    },
+    {
+        "name":"一上午",
+        "startTime":"0800",
+        "endTime":"1200"
+    },
+    {
+        "name":"一下午",
+        "startTime":"1400",
+        "endTime":"1800"
+    },
+    {
+        "name":"一晚上",
+        "startTime":"1900",
+        "endTime":"2150"
+    }  ]
+}
